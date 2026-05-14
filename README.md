@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **flutter**
 
-- 📫 How to reach me **atevaz71@gmail.com**
+- 📫 How to reach me **amr.raamadan@outlook.com**
 
 - ⚡ Fun fact **I think am a greater developer**
 
